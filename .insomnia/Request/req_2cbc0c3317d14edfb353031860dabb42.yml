@@ -1,0 +1,21 @@
+_id: req_2cbc0c3317d14edfb353031860dabb42
+type: Request
+parentId: fld_1c5c17a57e7c4dfabc9715f36500fd76
+modified: 1667412523081
+created: 1667412505341
+url: https://www.abibliadigital.com.br/api/versions
+name: 4 - GET - VERSOES DA BIBLIA
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1667412505341
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

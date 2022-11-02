@@ -1,0 +1,21 @@
+_id: req_5a82c0d2abce4305a0aa1d894df8d88e
+type: Request
+parentId: fld_1c5c17a57e7c4dfabc9715f36500fd76
+modified: 1667411313688
+created: 1667411238493
+url: https://www.abibliadigital.com.br/api/books/sl
+name: 2 - GET - LIVRO BIBLIA
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1667411238493
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

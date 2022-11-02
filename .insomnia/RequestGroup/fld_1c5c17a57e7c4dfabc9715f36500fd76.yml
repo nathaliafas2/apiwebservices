@@ -1,0 +1,18 @@
+_id: fld_1c5c17a57e7c4dfabc9715f36500fd76
+type: RequestGroup
+parentId: wrk_844d899fffdd4ec2b30ebe65e714c1a9
+modified: 1667415704682
+created: 1667411146113
+name: API BIBLIA ONLINE
+description: >+
+  TRABALHO POS GRADUAÇÃO ENGENHARIA DE SOFTWARE - 2022 
+
+  DISCIPLINA: API WEBSERVICES
+
+  API BIBLIA ONLINE - DESENVOLVIDO POR MARCIO GUERRA. 
+
+  DOCUMENTAÇÃO: https://github.com/marciovsena/abibliadigital/blob/master/DOCUMENTATION.md
+
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1667411146113

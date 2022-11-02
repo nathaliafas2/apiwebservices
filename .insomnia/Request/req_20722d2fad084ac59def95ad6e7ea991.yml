@@ -1,0 +1,24 @@
+_id: req_20722d2fad084ac59def95ad6e7ea991
+type: Request
+parentId: fld_1c5c17a57e7c4dfabc9715f36500fd76
+modified: 1667415329036
+created: 1667414689999
+url: https://www.abibliadigital.com.br/api/verses/nvi/:abbrev/random
+name: 7 - GET - VERSICULO ALEATORIO
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  prefix: ""
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldlZCBOb3YgMDIgMjAyMiAxODoyNToxMCBHTVQrMDAwMC5uYXRoeWZhc2FudG9zQGdtYWlsLmNvbSIsImlhdCI6MTY2NzQxMzUxMH0.vuP6BRz9ZmTyjYg42bN7KxDIF7LiEhGu5hX01K14jWo
+metaSortKey: -1667414689999
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

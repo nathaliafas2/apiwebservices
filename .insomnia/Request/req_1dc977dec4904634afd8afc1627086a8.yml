@@ -1,0 +1,23 @@
+_id: req_1dc977dec4904634afd8afc1627086a8
+type: Request
+parentId: fld_1c5c17a57e7c4dfabc9715f36500fd76
+modified: 1667415602887
+created: 1667415508086
+url: https://www.abibliadigital.com.br/api/requests/day
+name: 10 - GET - TODAS AS REQUISICOES POR DIA
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldlZCBOb3YgMDIgMjAyMiAxODoyNToxMCBHTVQrMDAwMC5uYXRoeWZhc2FudG9zQGdtYWlsLmNvbSIsImlhdCI6MTY2NzQxMzUxMH0.vuP6BRz9ZmTyjYg42bN7KxDIF7LiEhGu5hX01K14jWo
+metaSortKey: -1667415508086
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,25 @@
+_id: req_d2028fa26a3b4c68a053ba51675ee54d
+type: Request
+parentId: fld_fcde0605176441a99da60399e3dce1d8
+modified: 1667419902959
+created: 1667418030150
+url: https://api.spotify.com/v1/me/player/next
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: oauth2
+  grantType: authorization_code
+  clientId: 49ea3562ee0f423895ce823ddb312cbc
+  clientSecret: 6a5e4c5b1b7e469fbf514e00e9ce9884
+metaSortKey: -1667418030150
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

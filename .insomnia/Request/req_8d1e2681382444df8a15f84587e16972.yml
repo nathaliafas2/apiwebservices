@@ -1,0 +1,38 @@
+_id: req_8d1e2681382444df8a15f84587e16972
+type: Request
+parentId: fld_1c5c17a57e7c4dfabc9715f36500fd76
+modified: 1667415124103
+created: 1667412536282
+url: https://www.abibliadigital.com.br/api/users
+name: 5 - POST - CRIAR USUARIO
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |+
+    {
+      "name": "Nathalia",
+      "email": "nathyfasantos@gmail.com",
+      "password": "102030", 
+      "notifications": true 
+    }
+
+parameters: []
+headers:
+  - id: pair_31aee3abf939490c925518887c760c6c
+    name: Accept
+    value: application/json
+    description: ""
+  - id: pair_50572191dbc44041b9d1150521f53b76
+    name: Content-Type
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1667412536282
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

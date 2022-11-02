@@ -1,0 +1,23 @@
+_id: req_a509a607308944a5a07820c544f9faef
+type: Request
+parentId: fld_1c5c17a57e7c4dfabc9715f36500fd76
+modified: 1667415332469
+created: 1667414885420
+url: https://www.abibliadigital.com.br/api/users/nathyfasantos@gmail.com
+name: 8 - GET - RETORNAR USUARIO
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldlZCBOb3YgMDIgMjAyMiAxODoyNToxMCBHTVQrMDAwMC5uYXRoeWZhc2FudG9zQGdtYWlsLmNvbSIsImlhdCI6MTY2NzQxMzUxMH0.vuP6BRz9ZmTyjYg42bN7KxDIF7LiEhGu5hX01K14jWo
+metaSortKey: -1667414885420
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

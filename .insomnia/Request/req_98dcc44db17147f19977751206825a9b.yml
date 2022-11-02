@@ -1,0 +1,21 @@
+_id: req_98dcc44db17147f19977751206825a9b
+type: Request
+parentId: fld_1c5c17a57e7c4dfabc9715f36500fd76
+modified: 1667411475389
+created: 1667411322553
+url: https://www.abibliadigital.com.br/api/verses/nvi/ap/22
+name: 3 - GET - VERSICULOS AP CAP 22
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1667411322553
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

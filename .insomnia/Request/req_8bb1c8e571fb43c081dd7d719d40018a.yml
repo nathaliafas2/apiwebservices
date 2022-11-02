@@ -1,0 +1,23 @@
+_id: req_8bb1c8e571fb43c081dd7d719d40018a
+type: Request
+parentId: fld_1c5c17a57e7c4dfabc9715f36500fd76
+modified: 1667415504906
+created: 1667415432263
+url: https://www.abibliadigital.com.br/api/users/stats
+name: 9 - GET - ESTATISTICA USUARIO
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldlZCBOb3YgMDIgMjAyMiAxODoyNToxMCBHTVQrMDAwMC5uYXRoeWZhc2FudG9zQGdtYWlsLmNvbSIsImlhdCI6MTY2NzQxMzUxMH0.vuP6BRz9ZmTyjYg42bN7KxDIF7LiEhGu5hX01K14jWo
+metaSortKey: -1667415432263
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,24 @@
+_id: req_ebf807dade28487eb4edc961198bf74f
+type: Request
+parentId: fld_1c5c17a57e7c4dfabc9715f36500fd76
+modified: 1667411318918
+created: 1667411155020
+url: https://www.abibliadigital.com.br/api/books
+name: 1 - GET - LIVROS BIBLIA
+description: ""
+method: GET
+body:
+  mimeType: application/json
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1667411155020
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

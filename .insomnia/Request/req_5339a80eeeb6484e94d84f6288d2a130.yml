@@ -1,0 +1,29 @@
+_id: req_5339a80eeeb6484e94d84f6288d2a130
+type: Request
+parentId: fld_1c5c17a57e7c4dfabc9715f36500fd76
+modified: 1667414670866
+created: 1667414567994
+url: https://www.abibliadigital.com.br/api/verses/search
+name: 6 - POST - PESQUISAR VERSICULOS POR PALAVRA
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "version": "nvi",
+      "search": "coragem"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1667414567994
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
